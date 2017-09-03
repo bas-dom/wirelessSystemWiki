@@ -8,21 +8,15 @@
 
 ## 1.嘉立创
 
-
-
 ## 2.非嘉立创
 
 电感
 
-https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f30a53ffzO8sk&id=532647306734&\_u=bpm3qi61d8&qq-pf-to=pcqq.c2c
-
-
-
-
+[https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f30a53ffzO8sk&id=532647306734&\_u=bpm3qi61d8&qq-pf-to=pcqq.c2c](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f30a53ffzO8sk&id=532647306734&_u=bpm3qi61d8&qq-pf-to=pcqq.c2c)
 
 0305升压模块
 
-https://item.taobao.com/item.htm?spm=a210c.1.0.0.5fd9c1c6lvafiT&id=548079646981 
+[https://item.taobao.com/item.htm?spm=a210c.1.0.0.5fd9c1c6lvafiT&id=548079646981](https://item.taobao.com/item.htm?spm=a210c.1.0.0.5fd9c1c6lvafiT&id=548079646981)
 
 # 加工厂焊接
 
@@ -33,8 +27,6 @@
 注意：
 
 > U5芯片是W25Q64，不需要焊接
-
-
 
 产品分为两个类型：网关和采集器。网关不需要焊接485电路，采集器不需要焊接网络模块电路。
 
@@ -106,6 +98,8 @@
 
 ## 后续焊接和组装
 
+
+
 |  |  |  |
 | :--- | :--- | :--- |
 | 开关盖 |  |  |
@@ -116,10 +110,12 @@
 
 # 测试
 
+
+
 |  | 测试通过的标准 |  |
 | :--- | :--- | :--- |
-| 烧写测试 | 能烧写、线上看到温度数据正常 |  |
-| 仅hi适用于采集器：流量计连接测试 | 平台上能读取到数据 |  |
+| 烧写测试 | 能烧写、线上看到温度数据正常 | 烧写时SWD顺序： |
+| 仅hi适用于采集器：流量计连接测试 | 平台上能读取到数据 | 485端子顺序从左至右：AB地 |
 | 仅适用于网关：网口测试 | 平台上能看到网关心跳包 |  |
 | 连续运行测试 |  |  |
 
