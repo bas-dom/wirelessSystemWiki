@@ -10,15 +10,13 @@
 
 ## 2.非嘉立创
 
-电感
+**环形电感**
 
 [https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f30a53ffzO8sk&id=532647306734&\_u=bpm3qi61d8&qq-pf-to=pcqq.c2c](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f30a53ffzO8sk&id=532647306734&_u=bpm3qi61d8&qq-pf-to=pcqq.c2c)
 
 > 规格：环形，39uH
 
-
-
-0305升压模块
+**0305升压模块**
 
 [https://item.taobao.com/item.htm?spm=a210c.1.0.0.5fd9c1c6lvafiT&id=548079646981](https://item.taobao.com/item.htm?spm=a210c.1.0.0.5fd9c1c6lvafiT&id=548079646981)
 
