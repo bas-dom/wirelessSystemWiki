@@ -68,8 +68,6 @@
 
 10．若烧写结束，则先拔掉采集器电源，再拔烧写线。
 
-
-
 ![](http://ww1.sinaimg.cn/large/006WtR4dgy1fjfkoe3c61j30fe0b0wiu.jpg)
 
 # 测试
