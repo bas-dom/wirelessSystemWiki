@@ -19,3 +19,7 @@
 * [采集器物料库存清单](cai-ji-qi-ku-cun-qing-dan.md)
 * [能量核查箱库存清单](neng-liang-he-cha-xiang-ku-cun-qing-dan.md)
 
+## 开发wiki
+
+* [采集器DMI代码](kai-fa-wiki/cai-jiqi-dmi-dai-ma.md)
+
